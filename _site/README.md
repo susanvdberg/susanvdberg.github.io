@@ -7,7 +7,7 @@ A jekyll-based markdown CV, which currently looks something like [this](http://b
 To build, clone the repo and run jekyll:
 
 ```bash
-git clone git://github.com/blmoore/md-cv
+git clone git://github.com/blmoore/md-kcv
 cd md-cv/
 jekyll serve
 ```

@@ -39,7 +39,7 @@ study the immune system in obesity. These included the effects of a high-fat die
 hematopoietic stem cells in the bone marrow, the therapeutically beneficial effects
 of blocking CD40-TRAF6 interactions in obese mice and immunological changes in
 different adipose tissues upon a high-fat diet. Promotors: Prof. Esther Lutgens and
-Prof. Menno de Winther.)
+Prof. Menno de Winther.
 
 ## Education
 
@@ -81,17 +81,6 @@ Received a full stipend from the Leiden University. My task was to create the be
 
 `2006`	__Volunteer at ‘La Tortuga Feliz’, Costa Rica.__ 
 Protecting sea turtle eggs from poachers
-
-## References 
-* Prof. Esther Lutgens <br>
-Department of Medical Biochemistry, Academic Medical Centre, University of Amsterdam
-Tel. +31 (0)20 5 66 33 80. E-mail: e.lutgens@amc.uva.nl.
-
-* Prof. Menno P.J. de Winther <br>
-Department of Medical Biochemistry, Academic Medical Centre, University of Amsterdam 
-Tel. +31 (0)20 5 66 6762. E-mail: m.dewinther@amc.uva.nl
-
-
 
 ## Scientific experience
 
@@ -180,6 +169,12 @@ IgG is elevated in obese white adipose tissue but this does not mediate glucose 
 Fcγ-receptor or complement activation. 
 
 
-<!-- ### Footer
+## References 
+Prof. Esther Lutgens <br>
+Department of Medical Biochemistry, Academic Medical Centre, University of Amsterdam
+<br>Tel. +31 (0)20 5 66 33 80. E-mail: e.lutgens@amc.uva.nl.
 
-Last updated: May 2013 -->
+Prof. Menno P.J. de Winther <br>
+Department of Medical Biochemistry, Academic Medical Centre, University of Amsterdam<br>
+Tel. +31 (0)20 5 66 6762. E-mail: m.dewinther@amc.uva.nl
+
