@@ -62,7 +62,7 @@ __Biomedical Sciences, Leiden University__ Bachelor of Science
 
 `2009` __Leiden University Medical Centre, the Netherlands__ 4 month internship at the Human Genetics Department
 
-Netherlands. _‘Polycystic kidney disease in conditional knock-out mice by reporter gene expression and kinome profiling’_ 
+ _‘Polycystic kidney disease in conditional knock-out mice by reporter gene expression and kinome profiling’_ 
 (Grade: 7,5/10).
 
 `1999 - 2005` __Secondary school, The Rijnlands Lyceum, Oegstgeest__
